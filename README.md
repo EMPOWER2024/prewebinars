@@ -28,7 +28,7 @@ The **Empower 2024 Pre-Webinar Series** is designed to provide foundational know
 
 | Silo           | Topic                                | Date | Time | Duration | Presenter |
 |----------------|--------------------------------------|------|------|----------|-----------|
-| Silo 00        | Topic for Silo 00                    | xxx  | xxx  | 1 hour   | xxx       |
+| Silo 00        | Medical Imaging data analysis 101                   | xxx  | xxx  | 1 hour   | Lalith       |
 | Silo 01        | Topic for Silo 01                    | xxx  | xxx  | 1 hour   | xxx       |
 | Silo 02        | Topic for Silo 02                    | xxx  | xxx  | 1 hour   | xxx       |
 | Silo 03        | Topic for Silo 03                    | xxx  | xxx  | 1 hour   | xxx       |
