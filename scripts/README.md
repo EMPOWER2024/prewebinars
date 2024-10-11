@@ -4,11 +4,11 @@
 ## Overview
 Welcome to the EMPWR24 Datathon! In this guide, you will find instructions for setting up AWS CLI, obtaining temporary credentials, and uploading your data to the EMPWR24 S3 bucket. 
 
-⚠️ **Note**: The credentials provided are valid for only 15 minutes, so make sure to upload your compressed data promptly after setting up your AWS CLI.
+⚠️ **Note**: The credentials provided are valid for only 60 minutes, so make sure to upload your compressed data promptly after setting up your AWS CLI.
 
 ## Requirements
 
-Before you begin, ensure the following:
+Before you begin, ensure the following (actually just google aws cli download and it will take you to their website):
 
 - **AWS CLI**: Installed on your system. If not, you can follow the [AWS CLI installation guide](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html).
 - **Curl**: Installed on your system (most Linux distributions should have `curl` pre-installed).
